@@ -37,12 +37,9 @@ An AI-based movie recommendation system that suggests movies based on your **moo
 ---
 ## 📸 Screenshots
 <img width="632" height="525" alt="WhatsApp Image 2026-04-20 at 4 05 21 PM" src="https://github.com/user-attachments/assets/3bbe42c6-310b-4a19-9acb-097131ec1970" />
-<img width="1567" height="959" alt="WhatsApp Image 2026-04-20 at 4 05 21 PM (1)" src="https://github.com/user-attachments/assets/e391a9ca-2488-4f3c-9175-4b8d8f6d405f" />
 <img width="1567" height="959" alt="WhatsApp Image 2026-04-20 at 4 05 21 PM (1)" src="https://github.com/user-attachments/assets/28d4f043-c03f-437b-8cc6-7bc1d015fe55" />
 <img width="1530" height="928" alt="WhatsApp Image 2026-04-20 at 4 05 21 PM (2)" src="https://github.com/user-attachments/assets/f34be8b7-c16e-4b61-9ceb-a01bb1794c3c" />
-
-
-
+<img width="1450" height="592" alt="WhatsApp Image 2026-04-20 at 4 09 49 PM" src="https://github.com/user-attachments/assets/7034c64d-833d-48a2-b316-ca3299e4eb76" />
 
 ## 📂 Project Structure
 
